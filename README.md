@@ -57,31 +57,31 @@ Dentro da nossa Organização no Azure Devops utilizamos o Boards, o qual integr
 
 **Associamos a um PR e commits os nossos Work Items o que esta prescrito em nossa Arquitetura.**
 
-![alt text](image-1.png)
+![alt text](image-10.png)
 
 --
 
-![alt text](image-5.png)
+![alt text](img/image-5.png)
 
 **Após realizarmos o nosso commit em outra branch sem ser a MAIN (regra da main ser a branch principal), solicitamos o PR e adicionamos um revisor padrão para aprová-lo**
 
-![alt text](image-2.png)
+![alt text](img/image-2.png)
 
 --
 
-![alt text](image-3.png)
+![alt text](img/image-3.png)
 
 --
 
-![alt text](image-4.png)
+![alt text](img/image-4.png)
 
 --
 
 ### Revisor Padrão
 
-![alt text](image-6.png)
+![alt text](img/image-6.png)
 
-![alt text](image-7.png)
+![alt text](img/image-7.png)
 
 **Logo após o merge aprovado rodará as Pipelines de CI e CD de maneira automática pelos triggers**
 
@@ -210,13 +210,13 @@ O script lê variáveis como:
 ```
 Assim, ele funciona tanto localmente quanto dentro do pipeline. E também sem expor as senhas, pegando das variavéis dentro da Pipeline de CI.
 
-![alt text](image-8.png)
+![alt text](img/image-8.png)
 
-![alt text](image-9.png)
+![alt text](img/image-9.png)
 
 **Lembrando sempre de alterar a variável dentro da pipeline ao subir o banco**
 
-![alt text](image-1.png)
+![alt text](img/image-1.png)
 
 
 **2. Verifica se o MySQL Client está instalado**
