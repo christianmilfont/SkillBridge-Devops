@@ -1,6 +1,6 @@
 # SkillBridge-Devops
 
-![alt text](img/Imagem%20do%20WhatsApp%20de%202025-11-23%20%C3%A0(s)%2017.49.10_0550f589.jpg)
+![Imagem do WhatsApp de 2025-11-23 à(s) 17 49 10_6f6bb5ae](https://github.com/user-attachments/assets/36e1602a-4ee9-4b51-b725-61472ba6d889)
 
 ### Solução da matéria de Devops, com implementações de Pipelines CI/CD no Azure.
 
@@ -53,7 +53,7 @@ Resumo: um sistema que ajuda pessoas a se requalificarem (cursos curtos + micro-
 
 Dentro da nossa Organização no Azure Devops utilizamos o Boards, o qual integrado com a matéria de Quality Assurance, justamente para criar nossas Taks de maneira organizada e assertiva:
 
-![alt text](image.png)
+<img width="1664" height="937" alt="image" src="https://github.com/user-attachments/assets/141adc7b-6853-49b0-b86d-00393b0166d5" />
 
 **Associamos a um PR e commits os nossos Work Items o que esta prescrito em nossa Arquitetura.**
 
