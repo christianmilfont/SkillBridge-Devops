@@ -57,29 +57,30 @@ Dentro da nossa Organização no Azure Devops utilizamos o Boards, o qual integr
 
 **Associamos a um PR e commits os nossos Work Items o que esta prescrito em nossa Arquitetura.**
 
-![alt text](image-10.png)
+<img width="701" height="434" alt="image" src="https://github.com/user-attachments/assets/ce59ab0b-eeb2-470b-a1f0-1013d7f1cb2f" />
 
---
+
+---
 
 ![alt text](img/image-5.png)
 
 **Após realizarmos o nosso commit em outra branch sem ser a MAIN (regra da main ser a branch principal), solicitamos o PR e adicionamos um revisor padrão para aprová-lo**
 
-![alt text](img/image-2.png)
+<img width="513" height="691" alt="image" src="https://github.com/user-attachments/assets/a27d8bd5-3c94-4e85-a937-9d17d51ee51e" />
 
---
+---
 
 ![alt text](img/image-3.png)
 
---
+---
 
 ![alt text](img/image-4.png)
 
---
+---
 
 ### Revisor Padrão
 
-![alt text](img/image-6.png)
+<img width="861" height="525" alt="image" src="https://github.com/user-attachments/assets/d24f1d7e-dd13-4b71-b7de-a24de2092c55" />
 
 ![alt text](img/image-7.png)
 
@@ -165,6 +166,7 @@ Este script existe para:
 
 ✔ Documentar claramente a forma oficial de subir o banco
 
+---
 
 ## Como rodar?
 ```bash
@@ -187,7 +189,7 @@ Infraestrutura Web na Azure → cria Resource Group, App Service Plan e Web App 
 
 Tudo isso rodando em um único comando — ideal para pipelines CI/CD.
 
-🔧 O que exatamente o script faz
+### O que exatamente o script faz
 1. Carrega configurações do ambiente (Azure Pipelines)
 
 O script lê variáveis como:
@@ -210,13 +212,14 @@ O script lê variáveis como:
 ```
 Assim, ele funciona tanto localmente quanto dentro do pipeline. E também sem expor as senhas, pegando das variavéis dentro da Pipeline de CI.
 
-![alt text](img/image-8.png)
+<img width="618" height="135" alt="image" src="https://github.com/user-attachments/assets/becd8cbd-7618-4d0b-8638-7f2cfcc8fa40" />
+
 
 ![alt text](img/image-9.png)
 
 **Lembrando sempre de alterar a variável dentro da pipeline ao subir o banco**
 
-![alt text](img/image-1.png)
+![alt text](image-1.png)
 
 
 **2. Verifica se o MySQL Client está instalado**
