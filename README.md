@@ -1,6 +1,6 @@
 # SkillBridge-Devops
 
-![alt text](<Imagem do WhatsApp de 2025-11-23 à(s) 17.49.10_0550f589.jpg>)
+![alt text](</img/Imagem do WhatsApp de 2025-11-23 à(s) 17.49.10_0550f589.jpg>)
 
 ### Solução da matéria de Devops, com implementações de Pipelines CI/CD no Azure.
 
