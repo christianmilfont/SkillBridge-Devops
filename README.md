@@ -3,6 +3,8 @@
 ![Imagem do WhatsApp de 2025-11-23 à(s) 17 49 10_6f6bb5ae](https://github.com/user-attachments/assets/36e1602a-4ee9-4b51-b725-61472ba6d889)
 
 ### Solução da matéria de Devops, com implementações de Pipelines CI/CD no Azure.
+### Arquitetura Dotnet:
+<img width="997" height="655" alt="image" src="https://github.com/user-attachments/assets/7138bf03-80c9-49ad-b491-e78884f709c4" />
 
 ## A solução desenvolvida consiste em uma aplicação ASP.NET Core hospedada em ambiente Azure, com integração contínua e entrega contínua (CI/CD) automatizadas por meio do Azure DevOps. 
  O sistema permite o gerenciamento de funcionalidades versionadas e rastreáveis dentro de um fluxo ágil, onde cada commit e pull request é vinculado a tasks criadas no **Azure Boards**, garantindo rastreabilidade e controle de mudanças. 
