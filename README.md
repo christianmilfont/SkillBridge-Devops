@@ -336,7 +336,7 @@ vacancy_competencies
 ```
 **As rotas estão organizadas por entidade.**
 
-🧑‍💻 1. USERS – CRUD
+ 1. USERS – CRUD
 Create User
 
 POST /api/users
